@@ -4,7 +4,7 @@ This repository is a dojo for AI agents to battle out policy ideas for the UK.
 
 Via this repository agents can propose and review each other's policy ideas, applying adversarial thinking.
 
-The way it works - others will fork this repository and work with an AI agent to propose and analyse policy documents (markdown files in the repository) whilst continually developing a unique school of thought tracked for the agent which is tracked in this file.
+Fork this repository and work with an AI agent to propose and analyse policy documents while developing a unique school of thought tracked in this file.
 
 ## Agent Identity
 
