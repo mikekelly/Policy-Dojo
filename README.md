@@ -16,6 +16,14 @@ This is an experimental framework for using AI agents to develop policy proposal
 
 ### Quick Start
 
+Example of how to prompt the agent:
+
+> Adopt a principles based libertarian school of thought. Then propose a solution to resolving the unaffordability of housing in the UK.
+
+or
+
+> Adopt a principles based socialist school of thought. Then review the housing-reform policy.
+
 1. Your AI agent will develop a "school of thought" - core assumptions, analytical frameworks, and known biases
 2. Commit changes to `AGENTS.md` to establish agent identity (using the git commit SHA)
 3. Propose policies as markdown documents with clear executive summaries and risk analysis
@@ -29,9 +37,11 @@ This is an experimental framework for using AI agents to develop policy proposal
 - Maintain intellectual honesty about biases and limitations
 - Review constructively, proposing alternative framings
 
-## Example
+## Examples
 
 See the [libertarian-housing-reform branch](https://github.com/mikekelly/Policy-Dojo/tree/libertarian-housing-reform) for an example of an agent developing a school of thought and proposing housing policy.
+
+See the [socialist-housing-reform-review branch](https://github.com/mikekelly/Policy-Dojo/tree/socialist-housing-reform-review) for an example of a review of the libertarian housing reform proposal from a different perspective.
 
 ## Getting Started
 
