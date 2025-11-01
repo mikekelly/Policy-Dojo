@@ -156,3 +156,109 @@ The solution is simple: let people build. When supply can respond to demand, mar
 
 The evidence is clear. Cities that allow building stay affordable. Cities that restrict building become expensive. We must choose: protect incumbent homeowners' windfall gains, or enable millions to access housing. The choice is obvious. Let people build.
 
+---
+## Review by ee4b253
+Date: 2025-11-01
+
+### Fundamental Misdiagnosis
+
+The document correctly identifies housing unaffordability as a supply problem but fundamentally misunderstands who controls that supply and whose interests are served by increasing it under market conditions.
+
+**Rhetorical technique detected:** The framing treats "people building" and "developers building" as synonymous. It's not ordinary people who will build under this policy—it's property developers and construction capital. The policy shifts power from local democratic processes to private capital, not to "people."
+
+**Alternative framing:** Housing unaffordability is a problem of housing as a commodified investment asset rather than a decommodified social good. When housing is a commodity, supply increases benefit developers and landowners first, and trickle down to residents only if at all.
+
+### Class Analysis Absent
+
+The document treats homeowners as a monolithic group benefiting from scarcity. This obscures class distinctions:
+
+- **Working-class homeowners** have housing security but limited equity to extract. They're not the primary beneficiaries of price rises—banks holding their mortgages and developers extracting land value are.
+- **Buy-to-let landlords and property developers** extract surplus value from housing scarcity. They're the true winners under current arrangements.
+- **Renters** are the clear losers, but the document offers them nothing except hope that increased supply will eventually lower rents—a market mechanism with no guarantees and long time horizons.
+
+The document dismisses existing homeowners' interests as "windfall gains" worth sacrificing. But working-class homeowners' security shouldn't be traded for speculative market outcomes. A socialist approach would protect existing residents while guaranteeing housing for all.
+
+### The Developer Windfall Problem
+
+**Critical omission:** The policy removes barriers to developer profit extraction while providing no mechanism to capture land value increases for public benefit.
+
+Under this policy:
+- Landowners near cities see land values skyrocket overnight when green belt restrictions lift
+- Developers can build to maximum density without contributing to infrastructure
+- Community infrastructure levy and Section 106 are eliminated, removing the only mechanism for public benefit capture
+
+The document frames developer taxes as "making homes more expensive." **Alternative framing:** Developer contributions are the working class capturing a share of land value increases. Eliminating them is a massive transfer of wealth to landowners and developers.
+
+**Real-world evidence ignored:** When cities upzone without value capture mechanisms, landowners and developers reap windfall profits while infrastructure lags, creating quality-of-life degradation for existing residents. See: many US cities post-zoning reform.
+
+### Evidence Selection Bias
+
+**Tokyo:** The document cites Tokyo as evidence that supply responsiveness prevents price increases. But Japan has several features the document ignores:
+- Strong public housing provision (historically 20%+ of stock)
+- Public land ownership and leasing systems
+- Cooperative housing models
+- Cultural norms against housing speculation
+
+Tokyo's affordability isn't just about zoning—it's about decommodification mechanisms. Cherry-picking the zoning policy while ignoring public ownership and anti-speculation measures is misleading.
+
+**Houston:** Cited as "affordable" but quality of life measures are notably absent. Houston has:
+- Massive sprawl requiring car ownership (a hidden housing cost)
+- Flooding problems from uncontrolled development
+- Segregated development patterns driven by private covenants (replacing public zoning)
+- Higher transportation costs offsetting lower housing costs
+
+The document acknowledges "confounding factors" but treats Houston as confirming evidence anyway. Intellectual honesty demands either rigorous controls for confounders or acknowledgment that the evidence is weak.
+
+### What's Missing: Decommodification
+
+A socialist housing policy would include:
+
+1. **Public land acquisition:** Use compulsory purchase at current use value (not development value) to acquire land near transit. Build social housing for rent at cost.
+
+2. **Community Land Trusts:** Allow communities to own land collectively. Buildings are sold/rented, but land remains in trust, preventing speculation.
+
+3. **Value capture:** Where upzoning occurs, capture 75%+ of land value increases for public infrastructure and social housing.
+
+4. **Right to buy back:** Council housing sold under right-to-buy should be repurchased at original sale price (inflation-adjusted). Rebuild social housing stock.
+
+5. **Rent controls and security of tenure:** Immediate protection for renters while supply increases. Market mechanisms work slowly; people need housing now.
+
+6. **Democratic planning:** Replace both discretionary council permission AND by-right developer freedom with participatory planning. Residents decide neighborhood development through democratic assemblies, with power to mandate social housing percentages, public space requirements, and community benefits.
+
+### Rhetorical Techniques Throughout
+
+**False dichotomies:** "Protect homeowners OR enable access" ignores public housing. "Planning OR markets" ignores democratic social housing provision.
+
+**Invisible ideology:** The document treats market mechanisms as neutral arbiters. Markets embed power relations—developers have capital, residents have only votes (which this policy curtails).
+
+**Naturalization of private development:** "Let people build" treats private development as the only path. Why not "Let communities build together"?
+
+**Time horizon manipulation:** The policy asks current residents to bear immediate costs (disruption, property value decline, infrastructure strain) for speculative long-term benefits that may not materialize if developers extract value rather than compete on price.
+
+### Where the Document Gets It Right
+
+**Parking minimums:** Correct. These subsidize cars at housing expense. Remove them.
+
+**Density restrictions:** Partly correct. Dense urban living is more sustainable and can support better amenities. But density without social ownership benefits developers, not residents.
+
+**Planning permission delays:** Real problem. Current system is slow, opaque, and favors those with capital to wait. But the solution is democratic speedup, not developer diktat.
+
+### Conclusion
+
+This policy transfers power from local democratic processes (however flawed) to private capital, with faith that market competition will deliver affordable housing. This faith is unwarranted.
+
+The UK tried market-led housing provision before. Council housing was built because private markets failed to house the working class at any price they could afford. Post-war Britain built 150,000+ council homes annually because the market wouldn't. Thatcher's right-to-buy and planning liberalization didn't increase housing supply—it financialized housing as an asset class.
+
+**A genuine housing solution requires:**
+- Public land acquisition and social housing construction at scale
+- Decommodification of housing through secure tenancies and rent controls
+- Democratic community control over development
+- Value capture mechanisms ensuring public benefit from development
+- Immediate protections for renters, not market faith
+
+This policy would create a developer bonanza while gambling that increased supply would eventually benefit the working class. History and theory both suggest otherwise. When housing is a commodity, supply increases enrich those who control capital, not those who need homes.
+
+**Recommendation:** Reject this market-fundamentalist approach. Draft alternative policy centering public housing provision, land value capture, and democratic planning.
+
+---
+
